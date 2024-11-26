@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 8beae4123a5b5ce45896c54faa0355de
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e6110dbdc58230947ba8c2fb689fdeaa
+  - enabled: 1
+    path: Assets/Scenes/Juego1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Juego2.unity
+    guid: c3b135e2cee43d549b78fc186a2f02fe
+  - enabled: 1
+    path: Assets/Scenes/Juego3.unity
+    guid: e8afd0843cc38ad499703c056536db1e
+  - enabled: 1
+    path: Assets/Scenes/Juego4.unity
+    guid: fa4a32813dbe6df4e83eac419fb6d135
+  - enabled: 1
+    path: Assets/Juego2/DerrotaJuego2.unity
+    guid: 63b791929884b5442a4681ea801ee66c
+  - enabled: 1
+    path: Assets/Juego3/Level1.unity
+    guid: aaf44c35793f0c54ea918f3708461918
+  - enabled: 1
+    path: Assets/Juego3/YouWin.unity
+    guid: 26eaa662ea3ab934d8a10f401f5f834a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 399c930153f07fe41a083840350abc85, type: 2}
